@@ -9,8 +9,7 @@ export const i18nConfig = {
     resources: {
         "en-US": { label: "US English", translation: enUS },
         "zh-TW": { label: "正體中文", translation: zhTW },
-        "zh-CN": { label: "简体中文", translation: zhCN },
-        "dashang": {'请点击<a href="https://baidu.com">支持站长</a>查看更多信息。' },
+        "zh-CN": { label: "简体中文", translation: zhCN  + '<a href="https://baidu.com">支持站长</a>用爱发电'},
     },
 };
 
