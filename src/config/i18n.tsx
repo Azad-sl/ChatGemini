@@ -11,7 +11,8 @@ export const i18nConfig = {
         "zh-TW": { label: "正體中文", translation: zhTW },
         "zh-CN": { label: "简体中文", 
             translation: zhCN,
-            "支持站长": { link: '<a href="https://baidu.com" target="_blank">支持站长</a>'},
+            "支持站长": { link: '<a href="https://baidu.com" target="_blank">支持站长</a>'}
+                 },
     },
 };
 
