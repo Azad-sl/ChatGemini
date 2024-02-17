@@ -10,7 +10,6 @@ export const i18nConfig = {
         "en-US": { label: "US English", translation: enUS },
         "zh-TW": { label: "正體中文", translation: zhTW },
         "zh-CN": { label: "简体中文", translation: zhCN },
-        "dashang": "<a href=\"https://orpheus.love/dashang\">支持站长用爱发电</a>",
     },
 };
 
